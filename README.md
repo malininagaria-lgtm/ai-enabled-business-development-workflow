@@ -8,7 +8,7 @@ Business development activity can become fragmented across spreadsheets, CRM rec
 
 ## Approach
 
-I designed a workflow that brings these steps together:
+This workflow brings these steps together:
 
 1. Consolidate prospect and lead data from multiple sources
 2. Clean and structure the data
@@ -37,7 +37,7 @@ The original workflow used a combination of:
 
 - Generative AI tools
 - Spreadsheet / CRM data
-- automation
+- Workflow automation
 - HTML-based dashboarding
 - structured prompt workflows
 
